@@ -1,6 +1,6 @@
 # Selenium WebDriver and TestNG application for Teammates
 This repository contains some new features of webdriver and Testng 
-that i learned recently while preparing for GSOC 2015. I belief at this particular 
+that I learned recently while preparing for GSOC 2017. I belief at this particular 
 point in time all test for web applications should be automated using renown and profesional tools 
 like Selenium WebDriver (selenium 2.0) and Testng.
 Selenium Webdriver and is merge[in 2008] of Selenium core[A project initiated by Jason Huggins in 2004 where 
